@@ -3,36 +3,42 @@
     "_id": "6357cace0d8a1d3611baa0f0",
     "index": 1,
     "picture": "https://img.freepik.com/free-vector/cloud-services-isometric-composition-with-big-cloud-computing-infrastructure-elements-connected-with-dashed-lines-vector-illustration_1284-30495.jpg?w=360&t=st=1666698986~exp=1666699586~hmac=74801619ad06d3d3250a9db8f1ba75ca4017f60f61f908f738ea51168eebfdbc",
-    "title": "cloud computing"
+    "title": "cloud computing",
+    "details":"Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.Large clouds often have functions distributed over multiple locations, each location being a data center. Cloud computing relies on sharing of resources to achieve coherence and typically uses a pay-as-you-go model, which can help in reducing capital expenses but may also lead to unexpected operating expenses for users"
   },
   {
     "_id": "6357cace78d9e5717ae9a75c",
     "index": 2,
-    "picture": "https://img.freepik.com/free-vector/computer-technology-isometric-icon-server-room-digital-device-set-element-design-pc-laptop_39422-1026.jpg?w=740&t=st=1666698896~exp=1666699496~hmac=661fa5d9b56daab8535aa16ce4d62654db5ccdba3de4da9dcd6dd74ad7d8c69a",
-    "title": "server"
+    "picture": "https://img.freepik.com/free-photo/programming-software-code-application-technology-concept_53876-123931.jpg?size=626&ext=jpg&ga=GA1.2.1300087501.1664419054&semt=sph",
+    "title": "application development",
+    "details":"Application development is the process of creating software that supports a business function. It consists of tasks relating to each of the seven stages of the application lifecycle. This starts with planning and gathering business requirements; continues with designing, development, testing, and deployment; and ends with the maintenance of your finished software application."
   },
   {
     "_id": "6357caceaa092610ac487de6",
     "index": 3,
     "picture": "https://img.freepik.com/free-vector/big-data-processing-concept-server-room-blockchain-technology-token-access_39422-812.jpg?w=740&t=st=1666699448~exp=1666700048~hmac=ef950f1a03a7f358f4d451f7458efbed1069fbcbcdbf66d4021260e3dfc69b94",
-    "title": "databases"
+    "title": "databases",
+    "details":"In computing, a database is an organized collection of data stored and accessed electronically. Small databases can be stored on a file system, while large databases are hosted on computer clusters or cloud storage. The design of databases spans formal techniques and practical considerations, including data modeling, efficient data representation and storage, query languages, security and privacy of sensitive data, and distributed computing issues, including supporting concurrent access and fault tolerance."
   },
   {
     "_id": "6357cace9da0d7a293a9cf6a",
     "index": 4,
-    "picture": "https://img.freepik.com/free-vector/network-gadget-set_1284-10695.jpg?w=360&t=st=1666699221~exp=1666699821~hmac=a17c306baf7545993c423224f6f2e0c65f5c1dee72344bc25cad11f02cc48d76",
-    "title": "computers"
+    "picture": "https://img.freepik.com/free-vector/cross-platform-software-concept-illustration_114360-7313.jpg?w=740&t=st=1666716730~exp=1666717330~hmac=aa69ad6088be16c75d70d6ed0cbf743ca35aaab4fef9eafa04608141bd8ead63",
+    "title": "operating systems",
+    "details":"An operating system (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs.Time-sharing operating systems schedule tasks for efficient use of the system and may also include accounting software for cost allocation of processor time, mass storage, printing, and other resources.For hardware functions such as input and output and memory allocation, the operating system acts as an intermediary between programs and the computer hardware, although the application code is usually executed directly by the hardware and frequently makes system calls to an OS function or is interrupted by it. Operating systems are found on many devices that contain a computer – from cellular phones and video game consoles to web servers and supercomputers."
   },
   {
     "_id": "6357cace7f91c196dd717bd0",
     "index": 5,
     "picture": "https://img.freepik.com/free-photo/futuristic-smart-city-with-5g-global-network-technology_53876-98438.jpg?w=740&t=st=1666699727~exp=1666700327~hmac=180a719f9e75a8969d8b7e41eb5c07fefa9aff6d3ef3b3b7c2a7d720ed8a408e",
-    "title": "internet"
+    "title": "internet",
+    "details":"The Internet is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP)[b] to communicate between networks and devices. It is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries a vast range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), electronic mail, telephony, and file sharing."
   },
   {
     "_id": "6357cace68000a1ca103cd2c",
     "index": 6,
     "picture": "https://img.freepik.com/free-vector/futuristic-lock-shield-protection_53876-118349.jpg?w=740&t=st=1666700007~exp=1666700607~hmac=ba5bedc72dd7a646535ea9cb6cb51af0031ecebeab6f3a28897f9c50a91ddcc2",
-    "title": "security"
+    "title": "security",
+    "details":"information technology security (IT security) is the protection of computer systems and networks from information disclosure, theft of, or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide."
   }
 ]
