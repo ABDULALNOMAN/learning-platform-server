@@ -10,7 +10,9 @@ app.get('/', (req, res) => {
     res.send('hello world i am ok')
 })
 
-
+app.get('/data', (req, res) => {
+    res.send(data)
+})
 
 app.listen(port, () => {
     console.log('example check in site', port)
