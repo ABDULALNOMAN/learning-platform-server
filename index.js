@@ -22,6 +22,12 @@ app.get('/coursesdetails/:id', (req, res) => {
     res.send(details)
 })
 
+app.get('/courses/coursesdetails/checkout/:id',(req,res)=>{
+    const id = req.params.id
+    const item = data.find((n) => n._id === id);
+    res.send(item)
+})
+
 app.listen(port, () => {
     console.log('example check in site', port)
 })
