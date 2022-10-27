@@ -5,6 +5,7 @@ const port = process.env.port || 5000;
 
 
 const data = require('./data/data.json')
+const items = require('./data/item.json')
 
 app.use(cors())
 
@@ -18,13 +19,13 @@ app.get('/courses', (req, res) => {
 
 app.get('/coursesdetails/:id', (req, res) => {
     const id = req.params.id;
-    const details = data.find(item=>item._id==id)
+    const details = items.filter(item=>item._id === id)
     res.send(details)
 })
 
-app.get('/courses/coursesdetails/checkout/:id',(req,res)=>{
-    const id = req.params.id
-    const item = data.find((n) => n._id === id);
+app.get('/courses/coursesdetails/checkout/:index',(req,res)=>{
+    const index = req.params.index
+    const item = items.find((n) => n.index == index);
     res.send(item)
 })
 

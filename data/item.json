@@ -1,0 +1,170 @@
+[
+  {
+    "_id": "6357cace0d8a1d3611baa0f0",
+    "index": 1,
+    "picture": "https://dotnettrickscloud.blob.core.windows.net/img/c/if-else-statement.png",
+    "title":"conditon",
+    "details": "Conditions are statements that are created by the programmer which evaluates actions in the program and evaluates if it's true or false. If-then-else statement allows conditional execution based on the evaluation of an expression"
+  },
+  {
+    "_id": "6357cace0d8a1d3611baa0f0",
+    "index": 2,
+    "picture": "https://res.cloudinary.com/practicaldev/image/fetch/s--iCkOfD0L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A709ugF12LLkYxvb839YNlg.png",
+    "title":"function",
+    "details": "In computer science, functional programming is a programming paradigm where programs are constructed by applying and composing functions. It is a declarative programming paradigm in which function definitions are trees of expressions that map values to other values, rather than a sequence of imperative statements which update the running state of the program."
+  },
+  {
+    "_id": "6357cace0d8a1d3611baa0f0",
+    "index": 3,
+    "picture": "https://qph.cf2.quoracdn.net/main-qimg-188d126e8d29453612fc341a2e716ce2.webp",
+    "title":"array",
+    "details": "In computer science, array programming refers to solutions which allow the application of operations to an entire set of values at once. Such solutions are commonly used in scientific and engineering settings."
+  },
+  {
+    "_id": "6357cace0d8a1d3611baa0f0",
+    "index": 4,
+    "picture": "https://beginnersbook.com/wp-content/uploads/2017/09/for_loop_C.jpg",
+    "title":"loop",
+    "details": "In computer programming, a loop is a sequence of instruction s that is continually repeated until a certain condition is reached. Typically, a certain process is done, such as getting an item of data and changing it, and then some condition is checked such as whether a counter has reached a prescribed number."
+  },
+  {
+    "_id": "6357cace78d9e5717ae9a75c",
+    "index": 5,
+    "picture": "https://dotnettrickscloud.blob.core.windows.net/img/c/if-else-statement.png",
+    "title":"conditon",
+    "details": "Conditions are statements that are created by the programmer which evaluates actions in the program and evaluates if it's true or false. If-then-else statement allows conditional execution based on the evaluation of an expression"
+  },
+  {
+    "_id": "6357cace78d9e5717ae9a75c",
+    "index": 6,
+    "picture": "https://res.cloudinary.com/practicaldev/image/fetch/s--iCkOfD0L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A709ugF12LLkYxvb839YNlg.png",
+    "title":"function",
+    "details": "In computer science, functional programming is a programming paradigm where programs are constructed by applying and composing functions. It is a declarative programming paradigm in which function definitions are trees of expressions that map values to other values, rather than a sequence of imperative statements which update the running state of the program."
+  },
+  {
+    "_id": "6357cace78d9e5717ae9a75c",
+    "index": 7,
+    "picture": "https://qph.cf2.quoracdn.net/main-qimg-188d126e8d29453612fc341a2e716ce2.webp",
+    "title":"array",
+    "details": "In computer science, array programming refers to solutions which allow the application of operations to an entire set of values at once. Such solutions are commonly used in scientific and engineering settings."
+  },
+  {
+    "_id": "6357cace78d9e5717ae9a75c",
+    "index": 8,
+    "picture": "https://beginnersbook.com/wp-content/uploads/2017/09/for_loop_C.jpg",
+    "title":"loop",
+    "details": "In computer programming, a loop is a sequence of instruction s that is continually repeated until a certain condition is reached. Typically, a certain process is done, such as getting an item of data and changing it, and then some condition is checked such as whether a counter has reached a prescribed number."
+  },
+  {
+    "_id": "6357caceaa092610ac487de6",
+    "index": 9,
+    "picture": "https://dotnettrickscloud.blob.core.windows.net/img/c/if-else-statement.png",
+    "title":"conditon",
+    "details": "Conditions are statements that are created by the programmer which evaluates actions in the program and evaluates if it's true or false. If-then-else statement allows conditional execution based on the evaluation of an expression"
+  },
+  {
+    "_id": "6357caceaa092610ac487de6",
+    "index": 10,
+    "picture": "https://res.cloudinary.com/practicaldev/image/fetch/s--iCkOfD0L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A709ugF12LLkYxvb839YNlg.png",
+    "title":"function",
+    "details": "In computer science, functional programming is a programming paradigm where programs are constructed by applying and composing functions. It is a declarative programming paradigm in which function definitions are trees of expressions that map values to other values, rather than a sequence of imperative statements which update the running state of the program."
+  },
+  {
+    "_id": "6357caceaa092610ac487de6",
+    "index": 11,
+    "picture": "https://qph.cf2.quoracdn.net/main-qimg-188d126e8d29453612fc341a2e716ce2.webp",
+    "title":"array",
+    "details": "In computer science, array programming refers to solutions which allow the application of operations to an entire set of values at once. Such solutions are commonly used in scientific and engineering settings."
+  },
+  {
+    "_id": "6357caceaa092610ac487de6",
+    "index": 12,
+    "picture": "https://beginnersbook.com/wp-content/uploads/2017/09/for_loop_C.jpg",
+    "title":"loop",
+    "details": "In computer programming, a loop is a sequence of instruction s that is continually repeated until a certain condition is reached. Typically, a certain process is done, such as getting an item of data and changing it, and then some condition is checked such as whether a counter has reached a prescribed number."
+  },
+  {
+    "_id": "6357cace9da0d7a293a9cf6a",
+    "index": 13,
+    "picture": "https://dotnettrickscloud.blob.core.windows.net/img/c/if-else-statement.png",
+    "title":"conditon",
+    "details": "Conditions are statements that are created by the programmer which evaluates actions in the program and evaluates if it's true or false. If-then-else statement allows conditional execution based on the evaluation of an expression"
+  },
+  {
+    "_id": "6357cace9da0d7a293a9cf6a",
+    "index": 14,
+    "picture": "https://res.cloudinary.com/practicaldev/image/fetch/s--iCkOfD0L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A709ugF12LLkYxvb839YNlg.png",
+    "title":"function",
+    "details": "In computer science, functional programming is a programming paradigm where programs are constructed by applying and composing functions. It is a declarative programming paradigm in which function definitions are trees of expressions that map values to other values, rather than a sequence of imperative statements which update the running state of the program."
+  },
+  {
+    "_id": "6357cace9da0d7a293a9cf6a",
+    "index": 15,
+    "picture": "https://qph.cf2.quoracdn.net/main-qimg-188d126e8d29453612fc341a2e716ce2.webp",
+    "title":"array",
+    "details": "In computer science, array programming refers to solutions which allow the application of operations to an entire set of values at once. Such solutions are commonly used in scientific and engineering settings."
+  },
+  {
+    "_id": "6357cace9da0d7a293a9cf6a",
+    "index": 16,
+    "picture": "https://beginnersbook.com/wp-content/uploads/2017/09/for_loop_C.jpg",
+    "title":"loop",
+    "details": "In computer programming, a loop is a sequence of instruction s that is continually repeated until a certain condition is reached. Typically, a certain process is done, such as getting an item of data and changing it, and then some condition is checked such as whether a counter has reached a prescribed number."
+  },
+  {
+    "_id": "6357cace7f91c196dd717bd0",
+    "index": 17,
+    "picture": "https://dotnettrickscloud.blob.core.windows.net/img/c/if-else-statement.png",
+    "title":"conditon",
+    "details": "Conditions are statements that are created by the programmer which evaluates actions in the program and evaluates if it's true or false. If-then-else statement allows conditional execution based on the evaluation of an expression"
+  },
+  {
+    "_id": "6357cace7f91c196dd717bd0",
+    "index": 18,
+    "picture": "https://res.cloudinary.com/practicaldev/image/fetch/s--iCkOfD0L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A709ugF12LLkYxvb839YNlg.png",
+    "title":"function",
+    "details": "In computer science, functional programming is a programming paradigm where programs are constructed by applying and composing functions. It is a declarative programming paradigm in which function definitions are trees of expressions that map values to other values, rather than a sequence of imperative statements which update the running state of the program."
+  },
+  {
+    "_id": "6357cace7f91c196dd717bd0",
+    "index": 19,
+    "picture": "https://qph.cf2.quoracdn.net/main-qimg-188d126e8d29453612fc341a2e716ce2.webp",
+    "title":"array",
+    "details": "In computer science, array programming refers to solutions which allow the application of operations to an entire set of values at once. Such solutions are commonly used in scientific and engineering settings."
+  },
+  {
+    "_id": "6357cace7f91c196dd717bd0",
+    "index": 20,
+    "picture": "https://beginnersbook.com/wp-content/uploads/2017/09/for_loop_C.jpg",
+    "title":"loop",
+    "details": "In computer programming, a loop is a sequence of instruction s that is continually repeated until a certain condition is reached. Typically, a certain process is done, such as getting an item of data and changing it, and then some condition is checked such as whether a counter has reached a prescribed number."
+  },
+  {
+    "_id": "6357cace68000a1ca103cd2c",
+    "index": 21,
+    "picture": "https://dotnettrickscloud.blob.core.windows.net/img/c/if-else-statement.png",
+    "title":"conditon",
+    "details": "Conditions are statements that are created by the programmer which evaluates actions in the program and evaluates if it's true or false. If-then-else statement allows conditional execution based on the evaluation of an expression"
+  },
+  {
+    "_id": "6357cace68000a1ca103cd2c",
+    "index": 22,
+    "picture": "https://res.cloudinary.com/practicaldev/image/fetch/s--iCkOfD0L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A709ugF12LLkYxvb839YNlg.png",
+    "title":"function",
+    "details": "In computer science, functional programming is a programming paradigm where programs are constructed by applying and composing functions. It is a declarative programming paradigm in which function definitions are trees of expressions that map values to other values, rather than a sequence of imperative statements which update the running state of the program."
+  },
+  {
+    "_id": "6357cace68000a1ca103cd2c",
+    "index": 23,
+    "picture": "https://qph.cf2.quoracdn.net/main-qimg-188d126e8d29453612fc341a2e716ce2.webp",
+    "title":"array",
+    "details": "In computer science, array programming refers to solutions which allow the application of operations to an entire set of values at once. Such solutions are commonly used in scientific and engineering settings."
+  },
+  {
+    "_id": "6357cace68000a1ca103cd2c",
+    "index": 24,
+    "picture": "https://beginnersbook.com/wp-content/uploads/2017/09/for_loop_C.jpg",
+    "title":"loop",
+    "details": "In computer programming, a loop is a sequence of instruction s that is continually repeated until a certain condition is reached. Typically, a certain process is done, such as getting an item of data and changing it, and then some condition is checked such as whether a counter has reached a prescribed number."
+  }
+]
